@@ -16,7 +16,7 @@ I’m active on various social media platforms that you can check out.
 #### What about the repositories?
 ----------------------------------
 Most of the repositories are read-only, or some of them are outdated, but among them there’s the **cherry on top**:
-1. [PlanCake](https://github.com/CakemanGit/plancake) – the best project I’ve ever built using TypeScript, Node.js, and the discord.js library; you can check it out on my profile. It’s a Discord bot for **task planning**.
+1. [PlanCake](https://github.com/CakemanGit/plancake) – the best project I’ve ever built using TypeScript, Node.js, and the discord.js library; you can check it out on my profile. It’s a Discord bot for **task planning**. And the most interesting thing is that the bot runs on my home hosting 24/7. You can join **our Discord server** by following [this link](https://discord.gg/N24kGeeVTS)
 2. [DOORS REMAKE](https://github.com/CakemanGit/doors-remake) – a 3D remake of the original DOORS game from the Roblox platform, built with TypeScript, Node.js, and React Three Fiber.
 **You can check out all my repositories** [here](https://github.com/CakemanGit?tab=repositories).
 
